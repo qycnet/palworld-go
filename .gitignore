@@ -1,0 +1,16 @@
+# specific
+config.json
+palworld-go.exe
+palworld.exe
+pal.exe
+/test
+#/front
+
+.verysync
+
+# ignore dist
+webui/dist/
+
+# other
+.idea
+.DS_Store
